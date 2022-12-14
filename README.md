@@ -2,7 +2,8 @@
 Project Lab 3 Code (Digital Communications)
 
 This code allows utilization of communication between modules using the Ebyte E32-900T20D (https://www.cdebyte.com/products/E32-900T20D)
-The library used, "EBYTE.h" is developed from Kris Kasprzak (https://github.com/KrisKasprzak/EBYTE). THis library is utilized in order to program and change parameters of these devices.  
+The library used, "EBYTE.h" is developed from Kris Kasprzak (https://github.com/KrisKasprzak/EBYTE). 
+This library is utilized in order to program and change parameters of these devices.  
 
 To recreate these modules the following is needed:
 1. Arduino Uno
